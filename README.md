@@ -6,7 +6,7 @@
 .📹 Trabalho com (Segurança Eletronica)
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/LuizzAntoniioo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizzAntoniioo&show_icons=true&theme=flag-india&include_all_commits=false&count_private=true"/>     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzAntoniioo&layout=compact&langs_count=7&theme=swift"/>
  </div>
@@ -22,6 +22,5 @@
   <div>
     <
   <a href="https://instagram.com/luizantoniiooof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href =https://mail.yahoo.com/d/folders/1?.intl=br&.lang=pt-BR"luiizantoniioo@yahoo.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
   </div>
   
