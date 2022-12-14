@@ -19,3 +19,5 @@
   
   ![Snake animation](https://github.com/LuizzAntoniioo/LuizzAntoniioo/blob/output/github-contribution-grid-snake.svg)
   
+  </div>
+  
